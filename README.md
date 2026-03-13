@@ -1,8 +1,8 @@
-Data Analyst | Python, SQL, Data Visualization, Machine Learning. Turning data into actionable insights and automated solutions
+Data Analyst | Python, SQL, Machine Learning, Deep Learning, Artificial Intelligence
 
 # Hi, I'm Abiodun Oladayo 👋
 
-Data Analyst with a background in Enterprise Software Development and Logistics, currently completing an Artificial Intelligence & Machine Learning Bootcamp. I specialize in transforming raw datasets into meaningful insights, build analytical models, and develop solutions that support data-driven decision-making.
+Data professional with a background in Enterprise Software Development and Logistics, currently completing an Artificial Intelligence & Machine Learning Bootcamp powered by Fullstack Academy. I specialize in transforming raw datasets into meaningful insights, build analytical models, and develop solutions that support data-driven decision-making.
 
 My work focuses on data analysis, machine learning, and data processing using tools such as Python and SQL. I enjoy exploring datasets, identifying patterns, and communicating insights through clear visualizations and analytical reports.
 
