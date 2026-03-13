@@ -6,7 +6,7 @@ Data Analyst with a background in Enterprise Software Development and Logistics,
 
 My work focuses on data analysis, machine learning, and data processing using tools such as Python and SQL. I enjoy exploring datasets, identifying patterns, and communicating insights through clear visualizations and analytical reports.
 
-## 🔍 Areas of Focus
+## Areas of Focus
 
 • Data Analysis and Business Intelligence  
 • Machine Learning and Predictive Modeling  
@@ -14,7 +14,7 @@ My work focuses on data analysis, machine learning, and data processing using to
 • Exploratory Data Analysis (EDA)  
 • Data Visualization and Insight Communication  
 
-## 🛠 Technical Skills
+## Technical Skills
 
 **Programming & Data Analysis**
 - Python
