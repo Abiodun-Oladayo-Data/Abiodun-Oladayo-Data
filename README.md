@@ -1,4 +1,4 @@
-Data Analyst | Python, SQL, Machine Learning, Deep Learning, Artificial Intelligence
+Data & Analyst Engineer | Python, SQL, Machine Learning, Deep Learning, Artificial Intelligence
 
 # Hi, I'm Abiodun Oladayo 👋
 
