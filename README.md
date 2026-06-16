@@ -73,16 +73,16 @@ AI-powered chatbot capable of answering HR policy questions using Retrieval-Augm
 🔹 **Banking Customer Churn Prediction**
 Developed an Artificial Neural Network to predict customer churn and support retention strategies.
 
-🔹 **Bike Rental Demand Analysis**  
+🔹 **Bike Rental Demand Analysis**
 Exploratory data analysis project examining how weather, seasonality, and environmental factors influence rental demand.
 
-🔹 **Employee Turnover Prediction**  
+🔹 **Employee Turnover Prediction**
 Machine learning model designed to predict employee attrition and identify factors influencing workforce retention.
 
-🔹 **Apparel Sales Data Analysis**  
+🔹 **Apparel Sales Data Analysis**
 Retail analytics project analyzing sales performance across regions and customer segments to uncover revenue trends.
 
-🔹 **Expense Tracker Application**  
+🔹 **Expense Tracker Application**
 Python application for tracking and analyzing personal spending patterns and budget performance.
 
 
