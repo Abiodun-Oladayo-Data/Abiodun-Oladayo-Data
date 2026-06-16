@@ -8,11 +8,14 @@ My background combines enterprise IT solutions with data-driven decision-making,
 
 ## Areas of Focus
 
-• Data Analysis and Business Intelligence  
-• Machine Learning and Predictive Modeling  
-• Data Cleaning and Feature Engineering  
-• Exploratory Data Analysis (EDA)  
-• Data Visualization and Insight Communication  
+- Data Analytics and Business Intelligence
+- Machine Learning and Predictive Modeling
+- Deep Learning (RNNs, LSTMs, Neural Networks)
+- Natural Language Processing (NLP)
+- Generative AI and Retrieval-Augmented Generation (RAG)
+- Data Cleaning, Transformation, and Feature Engineering
+- Exploratory Data Analysis (EDA)
+- Data Visualization and Business Storytelling
 
 ## Technical Skills
 
