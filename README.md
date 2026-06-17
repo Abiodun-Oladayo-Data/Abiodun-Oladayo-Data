@@ -61,6 +61,9 @@ My background combines enterprise IT solutions with data-driven decision-making,
 
 ## Featured Projects
 
+🔹 **Customer Insights Engine Using NLP & Machine Learning**  
+Developed an end-to-end NLP solution for analyzing customer reviews, performing sentiment classification, generating summaries, and extracting actionable business insights.
+
 🔹 **NLP Sentiment Analysis**  
 Built and evaluated multiple machine learning and deep learning models for bank customers' complaints sentiment classification.
 
