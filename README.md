@@ -62,7 +62,7 @@ My background combines enterprise IT solutions with data-driven decision-making,
 ## Featured Projects
 
 🔹 **NLP Sentiment Analysis**  
-Built and evaluated multiple machine learning and deep learning models for sentiment classification.
+Built and evaluated multiple machine learning and deep learning models for bank customers' complaints sentiment classification.
 
 🔹 **Customer Review Text Summarization**  
 Implemented NLP techniques to summarize customer feedback and extract business insights.
